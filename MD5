@@ -1,0 +1,12 @@
+012d318792de0217debf4d058e094bf8 *DESCRIPTION
+4ea2504f383f40992043409f957bab91 *NAMESPACE
+c66681c9a5f43fdcc5ee1ea725bab8a1 *R/mass.R
+b9055d88d2176b0c05d905b3c575d76a *R/movmean.R
+387508d13cb2779e3c53b988a692b7e3 *R/movstd.R
+d70a60dd71de00524ee64c729fdeb989 *R/stamp.R
+0da39fd2b803936d67c5fa1863785bf0 *R/std.R
+30a868a76202b0be68cc285e29cb4c49 *man/mass.Rd
+ac0ace167fff84eb16b10fb308ad794a *man/movmean.Rd
+88fd7d29369a696eee5b9edadd9438e9 *man/movstd.Rd
+3364bb2eab1408ec629c7d04b5ee412f *man/stamp.Rd
+0cf6c95c45ceca6ac596ddad7ce7be25 *man/std.Rd
